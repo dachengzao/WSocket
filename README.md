@@ -17,7 +17,7 @@ package API is stable.
 
 ### Installation
 
-    go get github.com/gorilla/wsocket
+    go get github.com/dachengzao/wsocket
 
 ### Protocol Compliance
 
